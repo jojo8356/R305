@@ -1,0 +1,4 @@
+weasyprint>=66,<70
+pydyf>=0.11,<1
+markdown-it-py>=4,<5
+Pygments>=2.18,<3

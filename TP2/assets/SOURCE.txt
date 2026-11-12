@@ -1,0 +1,9 @@
+GitHub Primer CSS — markdown bundle, @primer/css version 22.3.2.
+Source : https://github.com/primer/css
+Package : https://www.npmjs.com/package/@primer/css
+CSS : https://cdn.jsdelivr.net/npm/@primer/css@22.3.2/dist/markdown.css
+Licence MIT : PRIMER-CSS-LICENSE.txt
+
+The converter embeds this stylesheet locally, then adds print-only adjustments.
+
+La directive finale sourceMappingURL (commentaire) a été retirée ; les règles CSS sont inchangées.

@@ -1,0 +1,7 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+PointerAlignment: Right
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+ColumnLimit: 100
